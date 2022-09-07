@@ -1,4 +1,5 @@
-
+##Compound Interest
+'''c
 #include <stdio.h>
 #include <math.h>
 int main(){
@@ -18,3 +19,4 @@ int main(){
     printf("%f\n", amount);
     return 0;
 }
+'''
